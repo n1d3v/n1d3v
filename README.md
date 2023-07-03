@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @xyqnn
-- 👀 I’m interested in Android, Tech and Coding.
-- 🌱 I’m currently learning Java, Kotlin and C#
-- 💞️ I’m looking to collaborate on Android and  Random Projects I make.
-- 📫 How to reach me, Email (xyqn@techie.com)
+'''python
+import stupidity
+import n1dev
 
-- If you are seeing this you're beautiful <3
+# My Name
+print("n1ghtdev / xyqn")
+print("Patrick")
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xyqnn)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xyqnn)](https://github.com/anuraghazra/github-readme-stats)
+# My Interests
+print("C#, Python (best language), HTML, CSS, JS")
+print("Messing With Android and iOS")
+
+# My Website
+print("https://xyqn.xyz/")
+
+# Where to reach me
+print("Discord: n1dev")
+print("Email: xyqn@techie.com")
+'''
