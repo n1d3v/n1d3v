@@ -16,7 +16,7 @@ print("Messing With Android and iOS")
 print("https://xyqn.xyz/")
 
 # My Projects
-print("xyBro, ??? (wip)")
+print("xyBro, Modula")
 
 # Where to reach me
 print("Discord: n1dev")
