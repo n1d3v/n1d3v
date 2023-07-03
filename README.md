@@ -2,6 +2,8 @@
 import stupidity
 import n1dev
 
+print("Self-taught developer from Ireland.")
+
 # My Name
 print("n1ghtdev / xyqn")
 print("Patrick")
