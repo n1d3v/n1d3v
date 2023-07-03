@@ -22,3 +22,4 @@ Timezone:
 print("Greenwich Mean Time")
 print("UTC Offset: UTC +0")
 ```
+Based on itsnebula's README.
