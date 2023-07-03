@@ -1,4 +1,4 @@
-'''python
+```python
 import stupidity
 import n1dev
 
@@ -16,4 +16,9 @@ print("https://xyqn.xyz/")
 # Where to reach me
 print("Discord: n1dev")
 print("Email: xyqn@techie.com")
-'''
+```
+Timezone:
+```python
+print("Greenwich Mean Time")
+print("UTC Offset: UTC +0")
+```
