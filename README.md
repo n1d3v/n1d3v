@@ -12,11 +12,12 @@ print("Patrick")
 print("C#, Python (best language), HTML, CSS, JS")
 print("Messing With Android and iOS")
 
-# My Website
+# My Websites
 print("https://xyqn.xyz/")
+print("https://starixproject.lol")
 
 # My Projects
-print("xyBro, Modula")
+print("xyBro, Modula, Starix Project")
 
 # Where to reach me
 print("Discord: n1dev")
