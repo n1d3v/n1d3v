@@ -1,3 +1,11 @@
+<style>
+  @import url('https://fonts.cdnfonts.com/css/google-sans');
+
+  body {
+    font-family: 'Google Sans', sans-serif;
+  }
+</style>
+
 ```python
 import stupidity
 import n1dev
