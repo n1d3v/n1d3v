@@ -28,8 +28,8 @@
 <div
     align="center">
         <br>
-        <img src="https://cdn.discordapp.com/attachments/1080237422467633223/1139216472829341828/hi.png>
-            </img>
+        <img 
+            src="https://cdn.discordapp.com/attachments/1080237422467633223/1139216472829341828/hi.png" alt="System has been destoryed" />
         <img
             src="https://komarev.com/ghpvc/?username=xyqn&style=for-the-badge&color=DD6487" alt="Profile Views" />
 </div>
