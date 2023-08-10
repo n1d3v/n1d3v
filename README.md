@@ -28,7 +28,7 @@
 <div
     align="center">
         <a
-            href="https://discord.com/users/581573474296791211">
+            href="https://discord.com/users/1080226778511052872">
             <img
                 src="https://lanyard.cnrad.dev/api/581573474296791211?borderRadius=10px&animated=:true&bg=282A3682&idleMessage=acquite+is+not+doing+anything+right+now+:c" />
         </a>
