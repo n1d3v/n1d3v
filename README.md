@@ -104,4 +104,4 @@
         </td>
     </tr>
 </table>
-<p align="center">Based off</p>[acquitelol's README.](https://github.com/acquitelol)
+<p align="center">Based off acquitelol's README.</p>
