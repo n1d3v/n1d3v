@@ -27,14 +27,9 @@
 
 <div
     align="center">
-        <a
-            href="https://discord.com/users/1080226778511052872">
-            <img
-                src="https://lanyard.cnrad.dev/api/1080226778511052872?borderRadius=10px&animated=:true&bg=282A3682&idleMessage=xyqn+is+not+doing+anything+right+now+:c" />
-        </a>
         <br>
         <img
-            src="https://komarev.com/ghpvc/?username=acquitelol&style=for-the-badge&color=DD6487" alt="Profile Views" />
+            src="https://komarev.com/ghpvc/?username=xyqn&style=for-the-badge&color=DD6487" alt="Profile Views" />
 </div>
 
 #
