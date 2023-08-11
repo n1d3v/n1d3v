@@ -50,12 +50,6 @@ Design
             <img
                 src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=n1d3v&layout=compact&show_icons=true&hide_border=true&count_private=true&theme=dracula" />
         </td>
-                <td
-            align="center"
-            style="padding=0;width=50%;">
-            <img
-                src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=n1d3v&layout=compact&show_icons=true&hide_border=true&count_private=true&theme=dracula](https://github-readme-stats.vercel.app/api/top-langs/?username=n1d3v&theme=midnight-purple&layout=compact&langs_count=10" />
-        </td>
     </tr>
 </table>
 
