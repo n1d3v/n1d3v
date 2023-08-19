@@ -10,7 +10,7 @@ You can check them out [here.](https://github.com/n1d3v?tab=repositories)
 
 I am very passionate about modifying Android and iOS 
 
-I am a TechToker. Check me out [here.](https://tiktok.com/@n1dev)
+I am a TechToker. Check me out [here.](https://tiktok.com/@mbrpartitionscheme)
 
 I am also a YouTuber! You can see my channel [here.](https://youtube.com/@xyqn)
 
