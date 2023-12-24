@@ -1,18 +1,32 @@
-# Hey, I'm xyqn. 
-I am a small developer from Ireland working on a project called [nekodroid.](https://github.com/nekodroid-oss)
+```python
+import stupidity
 
-I make some random ass code purely for fun or for something that doesn't exist.
-# Socials
-[TikTok](https://tiktok.com/@mbrpartitionscheme)
+# define human
+username = 'n1d3v'
+irl_name = 'Patrick'
+location = 'Ireland'
+age = 15
 
-[YouTube](https://youtube.com/@xyqn)
+# define experience
+languages = ['python', 'html', 'css', 'java']
+ides = ['vs-code', 'android-studio', 'pycharm', 'visual-studio-2022']
 
-[Website](https://xyqn.xyz)
-# Things I use
-Languages:
+# print human and experience
+print("Username:", username)
+print("Real Name:", irl_name)
+print("Location:", location)
+print("Age:", age)
+print("Languages:", languages)
+print("IDEs:", ides)
+```
 
-Python, Java, C#, HTML, JS, CSS
+```bash
+$ python3 human.py
 
-IDEs:
-
-Visual Studio Code, Notepad++
+Username: n1d3v
+Real Name: Patrick
+Location: Ireland
+Age: 15
+Languages: ['python', 'html', 'css', 'java']
+IDEs: ['vs-code', 'android-studio', 'pycharm', 'visual-studio-2022']
+```
