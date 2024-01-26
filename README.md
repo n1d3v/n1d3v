@@ -8,7 +8,7 @@ location = 'Ireland'
 age = 15
 
 # define experience
-languages = ['python', 'html', 'css', 'java']
+languages = ['python', 'html', 'css', 'java', 'lua']
 ides = ['vs-code', 'android-studio', 'pycharm', 'visual-studio-2022']
 
 # print human and experience
@@ -27,6 +27,6 @@ Username: n1d3v
 Real Name: Patrick
 Location: Ireland
 Age: 15
-Languages: ['python', 'html', 'css', 'java']
+Languages: ['python', 'html', 'css', 'java', 'lua']
 IDEs: ['vs-code', 'android-studio', 'pycharm', 'visual-studio-2022']
 ```
