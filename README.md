@@ -1,32 +1,32 @@
-```python
-import stupidity
+<h1 align="center">Hello!</h1>
 
-# define human
-username = 'n1d3v'
-irl_name = 'Patrick'
-location = 'Ireland'
-age = 15
+I am PatrickTBP aka n1d3v. I code and make stuff when I feel like it.
 
-# define experience
-languages = ['python', 'html', 'css', 'java', 'lua']
-ides = ['vs-code', 'android-studio', 'pycharm', 'visual-studio-2022']
+I develop Starix, Classic 7 and other projects such as xyBro and SMG (song-metadata-generator)
 
-# print human and experience
-print("Username:", username)
-print("Real Name:", irl_name)
-print("Location:", location)
-print("Age:", age)
-print("Languages:", languages)
-print("IDEs:", ides)
+I also like Valve Games and other games I play. (source engine is funy)
+
+---
+
 ```
-
-```bash
-$ python3 human.py
-
-Username: n1d3v
-Real Name: Patrick
-Location: Ireland
-Age: 15
-Languages: ['python', 'html', 'css', 'java', 'lua']
-IDEs: ['vs-code', 'android-studio', 'pycharm', 'visual-studio-2022']
+              .,-:;//;:=,
+          . :H@@@MM@M#H/.,+%;,
+       ,/X+ +M@@M@MM%=,-%HMMM@X/,
+     -+@MM; $M@@MH+-,;XMMMM@MMMM@+-
+    ;@M@@M- XM@X;. -+XXXXXHHH@M@M#@/.
+  ,%MM@@MH ,@%=             .---=-=:=,.
+  =@#@@@MX.,                -%HX$$%%%:;
+ =-./@M@M$                   .;@MMMM@MM:
+ X@/ -$MM/                    . +MM@@@M$
+,@M@H: :@:                    . =X#@@@@-
+,@@@MMX, .                    /H- ;@M@M=
+.H@@@@M@+,                    %MM+..%#$.
+ /MMMM@MMH/.                  XM@MH; =;
+  /%+%$XHH@$=              , .H@@@@MX,
+   .=--------.           -%H.,@@@@@MX,
+   .%MM@@@HHHXX$$$%+- .:$MMX =M@@MM%.
+     =XMMM@MM@MM#H;,-+HMM@M+ /MMMX=
+       =%@M@M#@$-.=$@MM@@@M; %M%=
+         ,:+$+-,/H#MMMMMMM@= =,
+               =++%%%%+/:-.
 ```
