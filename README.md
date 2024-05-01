@@ -1,10 +1,12 @@
+![Frame 34](https://github.com/n1d3v/n1d3v/assets/135556230/9a50ae28-9d44-4702-850a-a6b8de4c5dba)
 <h1 align="center">Hello!</h1>
 
-I am PatrickTBP aka n1d3v. I code and make stuff when I feel like it.
+### I am PatrickTBP.
+I make projects such as naticord, SMG (song-metadata-generator) and xyBro.
 
-I develop Starix, Classic 7 and other projects such as xyBro and SMG (song-metadata-generator)
-
-I also like Valve Games and other games I play. (source engine is funy)
+I simply code for **fun**.
+### What tools do I use?
+My main IDE and OS is Visual Studio Code and Windows but occassionally I use Linux too.
 
 ---
 
