@@ -8,6 +8,8 @@ I simply code for **fun**.
 ### What tools do I use?
 My main IDE and OS is Visual Studio Code and Windows but occassionally I use Linux too.
 
+![tbp-stats](https://github-readme-stats.vercel.app/api?username=n1d3v&show_icons=true&theme=onedark)
+
 ---
 
 ```
