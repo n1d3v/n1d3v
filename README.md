@@ -5,6 +5,8 @@
 I make projects such as naticord, SMG (song-metadata-generator) and xyBro.
 
 I simply code for **fun**.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L8XPYQG)
 ### What tools do I use?
 My main IDE and OS is Visual Studio Code and Windows but occassionally I use Linux too.
 
