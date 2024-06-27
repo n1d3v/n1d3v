@@ -5,9 +5,6 @@
 
 ---
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L8XPYQG)
-### What tools do I use?
-My main IDE and OS is Visual Studio Code and Windows but occassionally I use Linux too.
-
-![tbp-stats](https://github-readme-stats.vercel.app/api?username=n1d3v&show_icons=true&theme=onedark)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=n1d3v&show_icons=true&theme=onedark">
+</p>
