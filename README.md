@@ -1,10 +1,6 @@
-![Frame 34](https://github.com/n1d3v/n1d3v/assets/135556230/9a50ae28-9d44-4702-850a-a6b8de4c5dba)
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,discord,cs,python,androidstudio,bash,dotnet,react,robloxstudio,github,git,visualstudio,vscode,figma&amp;theme=dark">
-</p>
+# hey!
+im patricktbp. im a full stack 15 year old developer and designer from ireland! im interested in development and making random projects! i also make classic 7 and naticord.
 
----
+<p><img src="https://skillicons.dev/icons?i=java,discord,cs,python,androidstudio,bash,dotnet,react,robloxstudio,github,git,visualstudio,vscode,figma&theme=dark"></p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=n1d3v&show_icons=true&theme=onedark">
-</p>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=gdbj7tly8ohib96u8hzji7v0m&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
